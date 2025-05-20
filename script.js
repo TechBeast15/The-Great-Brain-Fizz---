@@ -3046,7 +3046,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (homeButton) {
     homeButton.addEventListener("click", homePageFunction);
-    console.log(homeButton);
   }
 
   // RESTART PUZZLE PICES-------------------------------------------------------
@@ -3098,7 +3097,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const fullImageSection = document.querySelector(".fullImageHeres");
-  console.log(fullImageSection);
   // Event listener for the full image view section
   if (fullImageSection) {
     fullImageSection.addEventListener("click", fullScreenImageView);
