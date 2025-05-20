@@ -877,6 +877,7 @@ section {
 
   .PUZZLEDIV {
     height: 75% !important;
+    margin: 10px;
   }
 
   .DORPBOX {
@@ -943,7 +944,7 @@ section {
   }
 
   .header .mainPageHeading{
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .stageHeader h1{

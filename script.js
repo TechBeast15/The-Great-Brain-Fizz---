@@ -2837,11 +2837,11 @@ document.addEventListener("DOMContentLoaded", () => {
     // BG - 17
     `./Assets/Img/BG/BG17.jpg`,
     // BG - 18
-    `./Assets/Img/BG/BG18.jpg`,
+    `./Assets/Img/BG/BG18.jpeg`,
     // BG - 19
-    `./Assets/Img/BG/BG19.jpg`,
+    `./Assets/Img/BG/BG19.jpeg`,
     // BG - 20
-    `./Assets/Img/BG/BG20.jpg`,
+    `./Assets/Img/BG/BG20.jpeg`,
     // BG - 21
     `./Assets/Img/BG/BG21.jpg`,
     // BG - 22
