@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // STAGE GENERATE FUNCTION :
-  const totalStages = 50;
+  const totalStages = 59;
   const container = document.getElementById("stagesContainer");
 
   for (let i = 1; i <= totalStages; i++) {
