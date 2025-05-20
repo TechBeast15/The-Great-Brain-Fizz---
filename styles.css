@@ -116,14 +116,20 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-direction: column;
   padding: 5px 15px;
   width: 100%;
+  margin-top: 10px;
+}
+
+.stageHeader{
+  flex-direction: row;
 }
 
 .nameHead,
 .namePuzz {
   color: aliceblue;
-  font-size: 8rem;
+  font-size: 3rem;
   font-family: fantasy;
 
   background: url("./Assets/Img/AnimationImages/nameAnimation.gif");
@@ -136,7 +142,11 @@ section {
   /* border: 1px solid #000; */
   width: 100%;
   text-align: center;
-  font-size: 4rem;
+  font-size: 3rem;
+}
+ .tagline{
+  font-weight: 600;
+  color: rgb(119, 119, 119);
 }
 
 /* BUTTONS CARD STAGE MOVEMENT --------------------- */
@@ -928,8 +938,16 @@ section {
 
   .preloader .nameHead {
     font-weight: bolder;
-    font-size: 5rem;
+    font-size: 1.5rem;
     letter-spacing: 3px;
+  }
+
+  .header .mainPageHeading{
+    font-size: 2rem;
+  }
+
+  .stageHeader h1{
+    /* font-size: 1.5rem; */
   }
 }
 
