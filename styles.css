@@ -146,8 +146,17 @@ section {
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
+  
   align-items: center;
   width: 100%;
+}
+
+.stageNaviagebuttons div{
+  /* border: 1px solid #000; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
 .stageNaviagebuttons .shineeBtn:hover {
@@ -155,7 +164,7 @@ section {
   box-shadow: 0 0px 25px rgba(0, 0, 0, 0.3);
 }
 
-/* .stageNaviagebuttons  */
+
 
 /* STAGE INSIDE CARD CLICK-------------------------- */
 
@@ -748,13 +757,17 @@ section {
   background: linear-gradient(145deg, #d8a9a9, #ce1a1a);
   color: white;
   font-size: xx-large;
-  font-weight: bold;
-  padding: 1px 10px;
+  font-weight: 500;
+  padding: 1px 10px 7px 10px;
   position: relative;
   overflow: hidden;
   cursor: pointer;
   box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
   transition: all 0.3s ease;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .shineeBtn::before {

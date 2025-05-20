@@ -2803,124 +2803,123 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const StageBGImages = [
     // BG - 1
-    `https://i.pinimg.com/736x/80/27/c6/8027c6c615900bf009b322294b61fcb2.jpg`,
+    `./Assets/Img/BG/BG1.jpg`,
     // BG - 2
-    `https://i.pinimg.com/736x/6e/c9/54/6ec9547c9126605efa5aa3ef59089c3e.jpg`,
+    `./Assets/Img/BG/BG2.jpg`,
     // BG - 3
-    `https://i.pinimg.com/736x/0b/d8/df/0bd8dfaf6ab848de88ccf825405484a9.jpg`,
+    `./Assets/Img/BG/BG3.jpg`,
     // BG - 4
-    `https://i.pinimg.com/736x/82/5a/8b/825a8b332cd24f3d4695b22887ba49d6.jpg`,
+    `./Assets/Img/BG/BG4.jpg`,
     // BG - 5
-    `https://i.pinimg.com/736x/e2/39/09/e23909efedbb8db827b676d00e9393a7.jpg`,
+    `./Assets/Img/BG/BG5.jpg`,
     // BG - 6
-    `https://i.pinimg.com/736x/16/6a/8b/166a8b99c115ffb6d17fc6bd660755cf.jpg`,
+    `./Assets/Img/BG/BG6.jpg`,
     // BG - 7
-    `https://i.pinimg.com/736x/b2/39/38/b23938911980848ff8a0863d76adc18d.jpg`,
+    `./Assets/Img/BG/BG7.jpg`,
     // BG - 8
-    `https://i.pinimg.com/736x/39/10/0c/39100c809e8e390b117feb268bb3c0fa.jpg`,
+    `./Assets/Img/BG/BG8.jpg`,
     // BG - 9
-    `https://i.pinimg.com/736x/52/ea/15/52ea151ca15da4415e30547d3b745aab.jpg`,
+    `./Assets/Img/BG/BG9.jpg`,
     // BG - 10
-    `https://i.pinimg.com/736x/1e/42/be/1e42beccb7cc14b10feb87dfe7beb5e8.jpg`,
+    `./Assets/Img/BG/BG10.jpg`,
     // BG - 11
-    `https://i.pinimg.com/736x/8a/3c/b6/8a3cb6f604b21ec87bc184d5166008e5.jpg`,
+    `./Assets/Img/BG/BG11.jpg`,
     // BG - 12
-    `https://i.pinimg.com/736x/3f/a1/70/3fa170f9365623b6edb9089d0a21a477.jpg`,
+    `./Assets/Img/BG/BG12.jpg`,
     // BG - 13
-    `https://i.pinimg.com/736x/c7/0e/90/c70e90bb79a99fa72d5c1540300bdfe7.jpg`,
+    `./Assets/Img/BG/BG13.jpg`,
     // BG - 14
-    `https://i.pinimg.com/736x/37/4d/71/374d718f2dec2165c2428784c2237fd1.jpg`,
+    `./Assets/Img/BG/BG14.jpg`,
     // BG - 15
-    `https://i.pinimg.com/736x/67/34/e3/6734e3f07d629652c07dc2317ec6a66a.jpg`,
+    `./Assets/Img/BG/BG15.jpg`,
     // BG - 16
-    `https://i.pinimg.com/736x/90/7f/5f/907f5f0eed673d1e7c53473ef1853ee8.jpg`,
+    `./Assets/Img/BG/BG16.jpg`,
     // BG - 17
-    `https://i.pinimg.com/736x/04/14/28/0414284b37eb847f439c339b15fa8395.jpg`,
+    `./Assets/Img/BG/BG17.jpg`,
     // BG - 18
-    `Assets/Img/Stages/PuzzleSet18/fullImage.jpeg`,
+    `./Assets/Img/BG/BG18.jpg`,
     // BG - 19
-    `Assets/Img/Stages/PuzzleSet19/fullImage.jpeg`,
+    `./Assets/Img/BG/BG19.jpg`,
     // BG - 20
-    `Assets/Img/Stages/PuzzleSet20/fullImage.jpeg`,
+    `./Assets/Img/BG/BG20.jpg`,
     // BG - 21
-    `https://i.pinimg.com/736x/01/3c/b8/013cb81ceba13155f5a61c1ae7242e84.jpg`,
+    `./Assets/Img/BG/BG21.jpg`,
     // BG - 22
-    `https://i.pinimg.com/736x/5f/a7/65/5fa765ba884eb1d5ccfc25a93bb949ae.jpg`,
+    `./Assets/Img/BG/BG22.jpg`,
     // BG - 23
-    `https://i.pinimg.com/736x/63/aa/dc/63aadc02b7dab66c10fc1e18183c73ee.jpg`,
+    `./Assets/Img/BG/BG23.jpg`,
     // BG - 24
-    `https://i.pinimg.com/736x/1a/63/81/1a6381daad0547ca9ce9fa115e0e0840.jpg`,
+    `./Assets/Img/BG/BG24.jpg`,
     // BG - 25
-    `https://i.pinimg.com/736x/84/03/4c/84034cae8a15e53cc6349360bd6f9656.jpg`,
+    `./Assets/Img/BG/BG25.jpg`,
     // BG - 26
-    `https://i.pinimg.com/736x/e0/41/b0/e041b0494a3a9efd803baaf2a78ffbaa.jpg`,
+    `./Assets/Img/BG/BG26.jpg`,
     // BG - 27
-    `https://i.pinimg.com/736x/77/c8/3c/77c83c2e733e842a1c220d63bcd75734.jpg`,
+    `./Assets/Img/BG/BG27.jpg`,
     // BG - 28
-    `https://i.pinimg.com/736x/16/49/4f/16494f4d6f417dd1b0dafd2b1245928a.jpg`,
+    `./Assets/Img/BG/BG28.jpg`,
     // BG - 29
-    `https://i.pinimg.com/736x/49/d3/f0/49d3f0ccec93c17278fc866ea2a9136f.jpg`,
+    `./Assets/Img/BG/BG29.jpg`,
     // BG - 30
-    `https://i.pinimg.com/736x/03/34/ec/0334ec5204010d2664cfc7dc41bfc186.jpg`,
+    `./Assets/Img/BG/BG30.jpg`,
     // BG - 31
-    `https://i.pinimg.com/736x/a1/2a/70/a12a70b86ee328faf1a212cf8529ee55.jpg`,
+    `./Assets/Img/BG/BG31.jpg`,
     // BG - 32
-    `https://i.pinimg.com/736x/3a/53/d5/3a53d5743af014f22cd8d37bf04c81b8.jpg`,
+    `./Assets/Img/BG/BG32.jpg`,
     // BG - 33
-    `https://i.pinimg.com/736x/ec/c4/29/ecc42955f34a9b71743b2c33ec5b4dfe.jpg`,
+    `./Assets/Img/BG/BG33.jpg`,
     // BG - 34
-    `https://i.pinimg.com/736x/fd/86/e3/fd86e3b63ca6c6c35ceb6f9eac6b9fbc.jpg`,
+    `./Assets/Img/BG/BG34.jpg`,
     // BG - 35
-    `https://i.pinimg.com/736x/88/25/e6/8825e6471360ae37a43684e6b73f83d3.jpg`,
+    `./Assets/Img/BG/BG35.jpg`,
     // BG - 36
-    `https://i.pinimg.com/736x/3b/7e/cc/3b7ecc27f06e5fc3a344e4c09dc0e834.jpg`,
+    `./Assets/Img/BG/BG36.jpg`,
     // BG - 37
-    `https://i.pinimg.com/736x/a3/7c/d2/a37cd29ae9333836441e3c0d620086f7.jpg`,
+    `./Assets/Img/BG/BG37.jpg`,
     // BG - 38
-    `https://i.pinimg.com/736x/e9/fc/e1/e9fce108e24f6e955421b0cc9047c38d.jpg`,
+    `./Assets/Img/BG/BG38.jpg`,
     // BG - 39
-    `https://i.pinimg.com/736x/d5/13/2c/d5132c3d9fc3216fcd88f6ed205c8dc5.jpg`,
+    `./Assets/Img/BG/BG39.jpg`,
     // BG - 40
-    `https://i.pinimg.com/736x/34/78/fa/3478fa4a12041bef61e75c55349ec058.jpg`,
+    `./Assets/Img/BG/BG40.jpg`,
     // BG - 41
-    `https://i.pinimg.com/736x/59/39/7e/59397e25c9a392b78c1528abc99e3cc0.jpg`,
+    `./Assets/Img/BG/BG41.jpg`,
     // BG - 42
-    `https://i.pinimg.com/736x/c0/9a/6e/c09a6e18a9a233f92b8fe987317842b4.jpg`,
+    `./Assets/Img/BG/BG42.jpg`,
     // BG - 43
-    `https://i.pinimg.com/736x/ff/d6/7f/ffd67f788f513c018b1606c66b6956ce.jpg`,
+    `./Assets/Img/BG/BG43.jpg`,
     // BG - 44
-    `https://i.pinimg.com/736x/04/48/7f/04487fc8e391ab25b3b0efd4b18b7afa.jpg`,
+    `./Assets/Img/BG/BG44.jpg`,
     // BG - 45
-    `https://i.pinimg.com/736x/80/b2/34/80b234f548f6c202640b1e913fe64671.jpg`,
+    `./Assets/Img/BG/BG45.jpg`,
     // BG - 46
-    `https://i.pinimg.com/736x/f6/ef/2a/f6ef2a9dfc9e25142583053f2a7842d1.jpg`,
+    `./Assets/Img/BG/BG46.jpg`,
     // BG - 47
-    `https://i.pinimg.com/736x/0f/b8/27/0fb8278350eeba05dabefbf8b1c762cc.jpg`,
+    `./Assets/Img/BG/BG47.jpg`,
     // BG - 48
-    `https://i.pinimg.com/736x/23/88/4e/23884e13c9d4a8eae73ca4122786d2b9.jpg`,
+    `./Assets/Img/BG/BG48.jpg`,
     // BG - 49
-    `https://i.pinimg.com/736x/5b/fd/ad/5bfdadacdf2cdb1cce7760c8d688662e.jpg`,
+    `./Assets/Img/BG/BG49.jpg`,
     // BG - 50
-    `https://i.pinimg.com/736x/a8/9d/17/a89d1718018766864bcacf01f64cbec5.jpg`,
+    `./Assets/Img/BG/BG50.jpg`,
     // BG - 51
-    `https://i.pinimg.com/736x/a8/68/32/a86832051be6aa81cdf163e4d03919dd.jpg`,
+    `./Assets/Img/BG/BG51.jpg`,
     // BG - 52
-    `https://i.pinimg.com/736x/5b/10/9c/5b109c12eff384d888138c1aa35dad8d.jpg`,
+    `./Assets/Img/BG/BG52.jpg`,
     // BG - 53
-    `https://i.pinimg.com/736x/5d/ab/4f/5dab4f54a463ad3a3cc9f0af5cae5bac.jpg`,
+    `./Assets/Img/BG/BG53.jpg`,
     // BG - 54
-    `https://i.pinimg.com/736x/8f/ff/d2/8fffd247e1bf787045af126823320308.jpg`,
+    `./Assets/Img/BG/BG54.jpg`,
     // BG - 55
-    `https://i.pinimg.com/736x/03/46/23/034623692ee6f60c7a1a64447eaeb48d.jpg`,
+    `./Assets/Img/BG/BG55.jpg`,
     // BG - 56
-    `https://i.pinimg.com/736x/56/67/a4/5667a40d8201a4304000c66a81151546.jpg`,
+    `./Assets/Img/BG/BG56.jpg`,
     // BG - 57
-    `https://i.pinimg.com/736x/7b/3d/01/7b3d010f34a11a778aefc4ea33edbc13.jpg`,
+    `./Assets/Img/BG/BG57.jpg`,
     // BG - 58
-    `https://i.pinimg.com/736x/39/82/32/398232d05de56e510b1477ba475e392f.jpg`,
-
+    `./Assets/Img/BG/BG58.jpg`,
     // BG - 59
-    `https://i.pinimg.com/736x/c3/cd/0f/c3cd0f7b81ef8fba9e49df3d9f64b9a3.jpg`,
+    `./Assets/Img/BG/BG59.jpg`,
   ];
 
   const cards = document.querySelectorAll(".card img");
