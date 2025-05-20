@@ -757,8 +757,8 @@ section {
   background: linear-gradient(145deg, #d8a9a9, #ce1a1a);
   color: white;
   font-size: xx-large;
-  font-weight: 500;
-  padding: 1px 10px 7px 10px;
+  font-weight: bolder;
+  padding: 1px  10px;
   position: relative;
   overflow: hidden;
   cursor: pointer;
